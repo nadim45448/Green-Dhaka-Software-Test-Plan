@@ -1,31 +1,40 @@
-🌿 Green Dhaka - Rooftop Gardening and Sustainability Platform
-Green Dhaka is a purpose-built platform designed to address the challenges of declining greenery and unemployment in Dhaka, Bangladesh. By transforming rooftops into sustainable gardens, this software promotes environmental sustainability, economic empowerment, and community engagement.
+# 🌿 Green Dhaka
 
-🚀 Features
-User Management
-Signup/Login: Secure registration and authentication with email/phone verification.
-Profile Management: Manage user profiles with personal and contact details.
-Gardening Solutions
-Garden Registration: Register rooftop gardens with physical verification.
-Gardening Equipment: Browse and purchase tools, seeds, and more.
-Hire Gardeners: Request professional gardening assistance.
-Sustainability Features
-Solar Panel Booking: Register and estimate rooftop solar solutions.
-Tax & Utility Benefits: Calculate potential savings from rooftop gardens and solar panels.
-Community Engagement
-Garden Feeds: Share garden stories, reels, and tutorials.
-Expert Opinion: Consult professionals for customized gardening solutions.
-Additional Features
-Notifications: Stay updated on registrations, reminders, and offers.
-Donations: Contribute to community welfare through the platform.
-Order Management: Add items to cart, checkout, and track purchase history.
-Feedback & Support: Submit feedback and connect with customer service.
-🛠 System Quality Attributes
-Usability: Simple, intuitive interface.
-Reliability: Consistent and error-free operation.
-Security: Protects user data and transactions.
-Accessibility: Inclusive design for all users.
-📋 Requirements
-Backend: Database for storing user data, gardens, and transactions.
-Frontend: User-friendly interface for registration, search, and more.
-Integration: Third-party APIs for payment, verification, and notifications.
+Green Dhaka is an innovative platform designed to combat the challenges of **declining greenery** and **unemployment** in Dhaka, Bangladesh. By transforming underutilized rooftops into vibrant green spaces, we aim to foster environmental sustainability, economic empowerment, and community engagement.
+
+---
+
+## 🚀 Features
+
+### 🌱 **Gardening Solutions**
+- **Rooftop Garden Registration**: Register and verify rooftop gardens with ease.
+- **Gardening Equipment**: Purchase tools, seeds, and other essentials directly through the platform.
+- **Hire a Gardener**: Schedule professional gardening assistance at your convenience.
+
+### ⚡ **Sustainability Features**
+- **Solar Panel Booking**: Book rooftop solar panels with size and cost suggestions.
+- **Tax & Utility Benefits**: Calculate potential savings through registered gardens and solar installations.
+
+### 👫 **Community Engagement**
+- **Garden Feeds**: Share your garden’s journey via photos, reels, and tips.
+- **Expert Advice**: Connect with gardening professionals for tailored solutions.
+
+### 🛠 **Additional Features**
+- **Notifications**: Stay updated with registration statuses, reminders, and special offers.
+- **Donations**: Support the community through food, clothing, or monetary donations.
+- **Order Management**: Add products to your cart, checkout, and view order history.
+- **Customer Support**: Seamless access to help and feedback options.
+
+---
+
+## 📋 Project Structure
+
+```plaintext
+📂 green-dhaka/
+├── 📁 docs/              # Documentation files
+├── 📁 src/               # Source code
+│   ├── 📁 backend/       # Backend logic
+│   ├── 📁 frontend/      # Frontend UI components
+│   └── 📁 api/           # API integrations
+├── 📁 tests/             # Test cases
+└── 📄 README.md          # Project overview
