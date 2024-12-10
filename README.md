@@ -27,14 +27,4 @@ Green Dhaka is an innovative platform designed to combat the challenges of **dec
 
 ---
 
-## 📋 Project Structure
 
-```plaintext
-📂 green-dhaka/
-├── 📁 docs/              # Documentation files
-├── 📁 src/               # Source code
-│   ├── 📁 backend/       # Backend logic
-│   ├── 📁 frontend/      # Frontend UI components
-│   └── 📁 api/           # API integrations
-├── 📁 tests/             # Test cases
-└── 📄 README.md          # Project overview
